@@ -1,3 +1,10 @@
+## Architecture Documentation
+
+The complete Microsoft Fabric Data Engineering
+Architectural Framework is available below.
+
+[View Microsoft Fabric Architecture PDF](./Microsoft-Fabric-Architecture.pdf)
+
 Data Engineering architecture designed to support scalable,
 secure and reliable enterprise analytics solutions.
 
